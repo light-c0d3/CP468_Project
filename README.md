@@ -1,4 +1,4 @@
-CP468_Project: AI Schizophrenia Detection from EEG Data
+
 
 <div align="center">
   <h3 align="center">AI Schizophrenia Detection from EEG Data 🧠</h3>
